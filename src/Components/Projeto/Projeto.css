@@ -1,0 +1,12 @@
+.projeto {
+  height: 90vh;
+  background-color: pink;
+  text-align: center;
+  border: 1px solid black;
+}
+
+#project {
+  width: 320px;
+  height: 160px;
+}
+
